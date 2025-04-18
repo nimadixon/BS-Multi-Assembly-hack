@@ -14,6 +14,5 @@ Reverse engineering tools such as **IDA Pro**, **x64dbg**, and **Cheat Engine** 
 
 
 
-![Capture](https://github.com/user-attachments/assets/a359c56a-d96d-40b8-bb84-6fc17d12c8cf)
 
 
